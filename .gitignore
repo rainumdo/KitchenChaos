@@ -1,0 +1,10 @@
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+# Assets
+KitchenChaos.sln
+Library
+Logs
+Packages
+ProjectSettings
+Temp
+UserSettings
